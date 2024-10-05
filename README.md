@@ -7,6 +7,5 @@ POOGESH/POOGESH is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <img src="URL_TO_LINKEDIN_LOGO" alt="LinkedIn Logo" width="40" height="40">
-<a href="https://www.linkedin.com" target="_blank" class="linkedin-button"></a>
 
 
